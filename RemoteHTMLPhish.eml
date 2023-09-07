@@ -1,0 +1,52 @@
+Date: Tue, 5 Sep 2023 09:33:11 +0000
+From: "Bank of AmeriCorp" <customer-service@amerikorp-bank.com>
+To: [Your email]
+Subject: Account Verification Needed!
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    .highlight {
+        font-weight: bold;
+    }
+    .warning {
+        color: red;
+        border: 1px solid red;
+        padding: 10px;
+        margin-top: 20px;
+        background-color: #ffe6e6;
+    }
+</style>
+</head>
+<body>
+
+<p>Dear Valued Customer,</p>
+
+<p>We've detected unusual activity on your AmeriCorp Bank account. To protect your funds and personal data, we require you to verify your account immediately.</p>
+
+<ul>
+    <li class="highlight">Click the link below to access our secure verification portal:</li>
+    <a href="http://amerikorp-verification.com/login" target="_blank">http://amerikorp-verification.com/login</a>
+    <li class="highlight">Log in with your username and password.</li>
+    <li class="highlight">Confirm your recent transactions. If any transactions look unfamiliar, our team will take immediate action.</li>
+</ul>
+
+<p>If you fail to verify within 24 hours, your account may be temporarily suspended for security reasons.</p>
+
+<p>Thank you for banking with AmeriCorp.</p>
+
+<p>Sincerely,<br>
+Customer Service Team</p>
+
+<div class="warning">
+    NOTE: This is a fictional example of a phishing email. In reality, always be cautious of emails from financial institutions or any other organizations that ask you to click on a link to log in or verify account details. When in doubt, contact the institution directly through trusted methods (e.g., their official website or phone number) rather than clicking on email links.
+</div>
+
+</body>
+</html>
